@@ -1,2 +1,2 @@
 Git is a free and open sorce distributed version control system designed to handle everything.
-From seall to large projects with speed and efficiency.
+Python is a programming language that lets you work more quickly.
